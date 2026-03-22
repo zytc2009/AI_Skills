@@ -1,0 +1,18 @@
+{
+  "name": "calendar-reminder",
+  "version": "1.0.0",
+  "description": "Add Google Calendar reminders using natural language. Tell Claude 'remind me to...' and it automatically creates events synced to your phone.",
+  "author": {
+    "name": "hongb",
+    "url": "https://github.com/hongb"
+  },
+  "license": "MIT",
+  "keywords": [
+    "calendar",
+    "reminder",
+    "google-calendar",
+    "productivity",
+    "automation",
+    "natural-language"
+  ]
+}
